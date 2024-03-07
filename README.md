@@ -1,2 +1,1 @@
-# ory-consent-ux
-A simplified reactjs and mui consent screen.
+"node-polyfill-webpack-plugin": "^3.0.0",

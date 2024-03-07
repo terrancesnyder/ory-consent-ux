@@ -1,0 +1,13 @@
+PUT /api/consent/:challengeId:
+// get challenge, get user information, and populate the token
+// call webhook
+
+DELETE /api/consent/:challengeId:
+// call webhook
+
+GET /api/consent/:challengeId:
+// get challenge, get identity of user, return basic information
+{
+identity: ...
+consent: ...
+}
